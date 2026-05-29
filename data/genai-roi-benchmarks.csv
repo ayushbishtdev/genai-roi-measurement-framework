@@ -1,0 +1,34 @@
+category,metric_or_framework,value,unit_or_context,source_article,notes
+Industry Benchmark,GenAI projects showing no measurable ROI,95,percent,genai-roi-measurement-framework.html,"MIT GenAI Divide study. Interpreted as mis-measurement not failure — many are Tier 1 capability builds judged on Tier 2 metrics."
+Industry Benchmark,AI initiatives that deliver expected ROI,25,percent,genai-roi-measurement-framework.html,IBM CEO research
+Industry Benchmark,AI initiatives that scale enterprise-wide,16,percent,genai-roi-measurement-framework.html,IBM CEO research
+Industry Benchmark,Business leaders citing GenAI ROI proof as #1 hurdle to adoption,~50,percent,genai-roi-measurement-framework.html,Gartner research cited in source article
+Industry Benchmark,Productivity lift among high GenAI adopters,93,percent,genai-roi-measurement-framework.html,PMI 2026 research
+Industry Benchmark,Operational benefit share of GenAI value (start of period),7,percent,genai-roi-measurement-framework.html,Mindbreeze 2026 GenAI Confidence Index
+Industry Benchmark,Operational benefit share of GenAI value (end of period),25,percent,genai-roi-measurement-framework.html,Mindbreeze 2026 GenAI Confidence Index — single half-year jump
+Industry Benchmark,Organizations actively deploying AI agents (2026),71,percent,how-to-prove-ai-roi-to-cfo-board.html + ai-pilot-to-production-roi-metrics.html,Consistent across two source articles
+Industry Benchmark,AI agents that actually reach production (2026),11,percent,ai-pilot-to-production-roi-metrics.html,
+3-Tier ROI Model,Tier 1 Capability ROI — build phase timeline,Q1–Q2,quarters,ai-capability-roi-three-tier-framework.html,"Assets: RAG pipelines, prompt libraries, data governance, workforce fluency"
+3-Tier ROI Model,Tier 2 Realized ROI — payback phase timeline,Q2–Q4,quarters,ai-capability-roi-three-tier-framework.html,"Direct cost takeout, workflow automation, vendor consolidation"
+3-Tier ROI Model,Tier 3 Strategic ROI — compounding phase,Q4+,quarters,ai-capability-roi-three-tier-framework.html,"AI-enabled products, accelerated sales cycles, market differentiation"
+3-Tier ROI Model,Example processing cost reduction target (Realized ROI),20,percent,ai-capability-roi-three-tier-framework.html,Used as illustrative board-pitch example in source article
+Agentic AI vs RPA,RPA payback horizon (short-term),3–6,months,agentic-ai-roi-vs-traditional-automation.html,
+Agentic AI vs RPA,RPA primary value driver,Linear cost takeout and speed,qualitative,agentic-ai-roi-vs-traditional-automation.html,
+Agentic AI vs RPA,RPA cost structure,Fixed licensing and rigid maintenance,qualitative,agentic-ai-roi-vs-traditional-automation.html,
+Agentic AI vs RPA,RPA exception handling,Fails entirely — human intervention required,qualitative,agentic-ai-roi-vs-traditional-automation.html,
+Agentic AI vs RPA,RPA maintenance burden,High — breaks when UIs change,qualitative,agentic-ai-roi-vs-traditional-automation.html,
+Agentic AI vs RPA,Agentic AI payback horizon,Mid-to-long term staged capability return,qualitative,agentic-ai-roi-vs-traditional-automation.html,
+Agentic AI vs RPA,Agentic AI primary value driver,End-to-end outcome delivery,qualitative,agentic-ai-roi-vs-traditional-automation.html,
+Agentic AI vs RPA,Agentic AI cost structure,Variable token usage and orchestration,qualitative,agentic-ai-roi-vs-traditional-automation.html,
+Agentic AI vs RPA,Agentic AI exception handling,Adapts dynamically — resolves autonomously,qualitative,agentic-ai-roi-vs-traditional-automation.html,
+Agentic AI vs RPA,Agentic AI maintenance burden,Low — adapts to systemic variations,qualitative,agentic-ai-roi-vs-traditional-automation.html,
+Cost-Per-Outcome Pricing,Per-seat super-user proportion (gets value),20,percent,cost-per-outcome-ai-pricing-roi.html,"Source: 20% become super-users, 80% barely use tool = shelfware"
+Cost-Per-Outcome Pricing,Per-seat shelfware proportion,80,percent,cost-per-outcome-ai-pricing-roi.html,
+Pilot-to-Production,Processing time reduction in pilot sandbox (example),40,percent,ai-pilot-to-production-roi-metrics.html,Illustrative figure — sandbox metric that CFOs misread as production ROI
+Pilot-to-Production,Integration-to-Inference Cost Ratio (red flag threshold),"$3 infra per $1 AI compute",ratio,ai-pilot-to-production-roi-metrics.html,Source states this ratio as a critical planning signal
+Agile AI KPI,AI Code Acceptance Rate (distraction threshold),<50,percent,agile-team-ai-productivity-kpis.html,"Below 50% acceptance = AI is a distraction, not accelerator"
+Agile AI KPI,Boilerplate code written by AI agent in example,500,lines in 3 seconds,agile-team-ai-productivity-kpis.html,Used to illustrate why raw velocity is a vanity metric
+Scrum Baseline,Number of sprints for pre-AI baseline measurement,3–5,sprints,genai-value-measurement-scrum-teams.html,"Metrics: cycle time, defect escape rate, sprint goal attainment"
+GCC Intelligence Arbitrage,Sales cycle acceleration example from India-built AI agent,14,percent,genai-roi-gcc-india-enterprise.html,Hyderabad-built AI agent accelerating global sales cycles
+CFO Business Case,Inference cost spike scenario for stress testing,+20,percent,ai-investment-business-case-template.html,Conservative stress-test: what if token costs spike 20%
+CFO Business Case,Adoption delay scenario for stress testing,50,percent slower,qualitative,ai-investment-business-case-template.html,Conservative stress-test: what if adoption is half of forecast speed
