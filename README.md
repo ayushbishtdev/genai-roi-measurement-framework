@@ -279,6 +279,6 @@ Intended update cadence: **quarterly** (aligned with when new enterprise AI benc
 
 ## About the Author
 
-I’m Ayush Bisht, a Content Engineer and AI tools specialist passionate about building smart, scalable, and engaging digital experiences. Currently working with [AgileWow](https://agilewow.com?utm_source=chatgpt.com), I blend content strategy with AI-driven workflows to create efficient, impactful solutions.
+I’m Ayush Bisht, a Content Engineer and AI tools specialist passionate about building smart, scalable, and engaging digital experiences. Currently working with AgileWow, I blend content strategy with AI-driven workflows to create efficient, impactful solutions.
 
 [LinkedIn](https://www.linkedin.com/in/ayush-bisht-92abb1315/).
